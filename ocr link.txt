@@ -1,0 +1,3 @@
+
+
+https://www.programcreek.com/python/example/89381/cv2.getStructuringElement
